@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lales\\BACKSIACE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CDD2AD-FBE0-4B37-A305-DCF9E2BE9627}|BACKSIACE\\BACKSIACE.csproj|c:\\users\\lales\\backsiace\\backsiace\\controllers\\sucursalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CDD2AD-FBE0-4B37-A305-DCF9E2BE9627}|BACKSIACE\\BACKSIACE.csproj|solutionrelative:backsiace\\controllers\\sucursalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CDD2AD-FBE0-4B37-A305-DCF9E2BE9627}|BACKSIACE\\BACKSIACE.csproj|c:\\users\\lales\\backsiace\\backsiace\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CDD2AD-FBE0-4B37-A305-DCF9E2BE9627}|BACKSIACE\\BACKSIACE.csproj|solutionrelative:backsiace\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CDD2AD-FBE0-4B37-A305-DCF9E2BE9627}|BACKSIACE\\BACKSIACE.csproj|c:\\users\\lales\\backsiace\\backsiace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CDD2AD-FBE0-4B37-A305-DCF9E2BE9627}|BACKSIACE\\BACKSIACE.csproj|solutionrelative:backsiace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CDD2AD-FBE0-4B37-A305-DCF9E2BE9627}|BACKSIACE\\BACKSIACE.csproj|c:\\users\\lales\\backsiace\\backsiace\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CDD2AD-FBE0-4B37-A305-DCF9E2BE9627}|BACKSIACE\\BACKSIACE.csproj|solutionrelative:backsiace\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CDD2AD-FBE0-4B37-A305-DCF9E2BE9627}|BACKSIACE\\BACKSIACE.csproj|c:\\users\\lales\\backsiace\\backsiace\\siacedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CDD2AD-FBE0-4B37-A305-DCF9E2BE9627}|BACKSIACE\\BACKSIACE.csproj|solutionrelative:backsiace\\siacedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CDD2AD-FBE0-4B37-A305-DCF9E2BE9627}|BACKSIACE\\BACKSIACE.csproj|c:\\users\\lales\\backsiace\\backsiace\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6CDD2AD-FBE0-4B37-A305-DCF9E2BE9627}|BACKSIACE\\BACKSIACE.csproj|solutionrelative:backsiace\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SucursalesController.cs",
+              "DocumentMoniker": "C:\\Users\\lales\\BACKSIACE\\BACKSIACE\\Controllers\\SucursalesController.cs",
+              "RelativeDocumentMoniker": "BACKSIACE\\Controllers\\SucursalesController.cs",
+              "ToolTip": "C:\\Users\\lales\\BACKSIACE\\BACKSIACE\\Controllers\\SucursalesController.cs",
+              "RelativeToolTip": "BACKSIACE\\Controllers\\SucursalesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:42:16.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\lales\\BACKSIACE\\BACKSIACE\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "BACKSIACE\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\lales\\BACKSIACE\\BACKSIACE\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "BACKSIACE\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:42:09.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lales\\BACKSIACE\\BACKSIACE\\Program.cs",
+              "RelativeDocumentMoniker": "BACKSIACE\\Program.cs",
+              "ToolTip": "C:\\Users\\lales\\BACKSIACE\\BACKSIACE\\Program.cs",
+              "RelativeToolTip": "BACKSIACE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:38:10.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lales\\BACKSIACE\\BACKSIACE\\appsettings.json",
+              "RelativeDocumentMoniker": "BACKSIACE\\appsettings.json",
+              "ToolTip": "C:\\Users\\lales\\BACKSIACE\\BACKSIACE\\appsettings.json",
+              "RelativeToolTip": "BACKSIACE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T03:37:59.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SiaceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lales\\BACKSIACE\\BACKSIACE\\SiaceDbContext.cs",
+              "RelativeDocumentMoniker": "BACKSIACE\\SiaceDbContext.cs",
+              "ToolTip": "C:\\Users\\lales\\BACKSIACE\\BACKSIACE\\SiaceDbContext.cs",
+              "RelativeToolTip": "BACKSIACE\\SiaceDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:37:58.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\lales\\BACKSIACE\\BACKSIACE\\Startup.cs",
+              "RelativeDocumentMoniker": "BACKSIACE\\Startup.cs",
+              "ToolTip": "C:\\Users\\lales\\BACKSIACE\\BACKSIACE\\Startup.cs",
+              "RelativeToolTip": "BACKSIACE\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:37:56.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
